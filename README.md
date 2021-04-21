@@ -8,5 +8,5 @@
 - 📫 How to reach me: emekomahafsah@gmail.com.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact:  I love whoever is reading this.
-- ⚡ Find my resume here:https://drive.google.com/file/d/1C99fqaTu78mTSpBtfYJwTKaqB7Ty77Ws/view?usp=sharing
+- ⚡ Find my resume here:https://cutt.ly/8vGEiSL
 
