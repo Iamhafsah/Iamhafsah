@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- I am Hafsah, a Front end developer and technical writer from Nigeria. I love to read, write, and listen to music when i'm not coding.
+ I am Hafsah, a Frontend engineer and technical writer from Nigeria. I love to read, write, and listen to music when i'm not coding.
 
 - 🌱 I’m currently learning React native and Typescript.
 - 👯 I’m looking to collaborate on any fantastic open source project.
