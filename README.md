@@ -6,7 +6,7 @@
 - 💬 Ask me about CSS, JavaScript, and anything fun.
 - 📫 How to reach me: emekomahafsah@gmail.com.
 - 😄 Pronouns: She/Her.
-- ⚡ Find my resume here:https://cutt.ly/8vGEiSL
+<!-- - ⚡ Find my resume here:https://cutt.ly/8vGEiSL -->
 - ⚡ Fun fact:  I love whoever is reading this.
 
 
