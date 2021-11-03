@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello You 👋
  
  I am Hafsah, a Frontend engineer and technical writer from Nigeria. I love to read, write, and listen to good music when i'm not coding.
 
